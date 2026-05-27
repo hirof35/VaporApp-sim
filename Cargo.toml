@@ -1,0 +1,7 @@
+[package]
+name = "VaporApp-sim"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.26" # 2026年現在、安定して広く使われているGUIクレート
